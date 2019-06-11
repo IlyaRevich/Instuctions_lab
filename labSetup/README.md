@@ -10,6 +10,8 @@ Azure Lab Day - Setup Instructions
  - Optionally, for the students to reach this repository you can publish shortened URL
     * Tiny URL https://tinyurl.com/
     * Or use QR code https://www.qr-code-generator.com/
+
+
     ![QR Code](https://github.com/IlyaRevich/Instuctions_lab/blob/master/labSetup/images/frame.png)
 
 2. Azure Subscription Preparation
