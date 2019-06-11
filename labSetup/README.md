@@ -9,7 +9,7 @@ Azure Lab Day - Setup Instructions
     * We publish applications list on the front page of this repository (README.md)
  - Optionally, for the students to reach this repository you can publish shortened URL
     * Tiny URL https://tinyurl.com/
-    * Or use QR code https://www.qr-code-generator.com/
+    * Or use QR code for mobile platforms: https://www.qr-code-generator.com/
 
 
     ![QR Code](https://github.com/IlyaRevich/Instuctions_lab/blob/master/labSetup/images/frame.png)
